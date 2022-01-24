@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body {
+    background-color: #59FDC1;
+    
+
+}
+div#tema{
+    background-color: #0AC983;
+    color: white;
+    
+}
+div > h1,h2 {
+    text-align: center;
+}
+h1#titulo {
+    text-align: left;
+    color: #035537;
+}
+
+h2#sub {
+    background-image: linear-gradient(to right,#51eeb4, #a6f3d7);
+    color: #2C7D5F;
+    text-align: left;
+    
+    
+}
+
+div#ultima {
+    background-color:#59FDC1 ;
+    border-radius: 10px;
+}
+h3 {
+    background-color:#0AC983 ;
+    padding-bottom: 20px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+
+    
+
+div#corpo {
+    background-color: white;
+    padding-right: 100px;
+    padding-left: 100px;
+    
+}
